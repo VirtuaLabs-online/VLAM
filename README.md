@@ -12,4 +12,4 @@ This project is licensed under the **VirtuaLabs Non-Commercial Attribution Licen
 ✘ Commercial use is not permitted  
 ✘ Selling this tool or anything made using it is not allowed  
 
-Commercial licenses are available — contact the author for details.
+Commercial licenses are available - contact VirtuaLabs for details.
